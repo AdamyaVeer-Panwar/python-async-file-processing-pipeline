@@ -1,4 +1,4 @@
-[project]
+
 name = "async-file-processor"
 version = "0.1.0"
 description = "Async file processing pipeline with validation and metadata extraction"
