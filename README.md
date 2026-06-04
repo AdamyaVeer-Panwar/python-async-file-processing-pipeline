@@ -110,7 +110,7 @@ Clone the repository:
 
 ```bash
 git clone <repository-url>
-cd async-file-processor
+cd python-async-file-processing-pipeline
 ```
 
 Install dependencies:
